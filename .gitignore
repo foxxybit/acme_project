@@ -133,3 +133,5 @@ dmypy.json
 media/
 
 views_без_классов.py
+
+sent_emails/
